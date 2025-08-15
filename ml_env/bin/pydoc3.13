@@ -1,0 +1,5 @@
+#!/Users/apple/Desktop/udemy/end_to_end_prjct/ML_Project_1/ml_env/bin/python3.13
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
