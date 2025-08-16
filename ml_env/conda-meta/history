@@ -21,3 +21,25 @@
 +defaults/osx-64::xz-5.6.4-h46256e1_1
 +defaults/osx-64::zlib-1.2.13-h4b97444_1
 # update specs: ['python==3.13']
+==> 2025-08-16 20:19:23 <==
+# cmd: /opt/anaconda3/bin/conda install -c conda-forge py-xgboost
+# conda version: 25.5.1
+-defaults/osx-64::ca-certificates-2025.7.15-hecd8cb5_0
+-defaults/osx-64::openssl-3.0.17-hee2dfae_0
++conda-forge/noarch::ca-certificates-2025.8.3-hbd8a1cb_0
++conda-forge/noarch::joblib-1.5.1-pyhd8ed1ab_0
++conda-forge/noarch::py-xgboost-3.0.4-cpu_pyh718b53a_0
++conda-forge/noarch::threadpoolctl-3.6.0-pyhecae5ae_0
++conda-forge/osx-64::libblas-3.9.0-34_h7f60823_openblas
++conda-forge/osx-64::libcblas-3.9.0-34_hff6cab4_openblas
++conda-forge/osx-64::libgfortran-15.1.0-h5f6db21_0
++conda-forge/osx-64::libgfortran5-15.1.0-hfa3c126_0
++conda-forge/osx-64::liblapack-3.9.0-34_h236ab99_openblas
++conda-forge/osx-64::libopenblas-0.3.30-openmp_h83c2472_1
++conda-forge/osx-64::libxgboost-3.0.4-cpu_h35a7d74_0
++conda-forge/osx-64::llvm-openmp-19.1.7-ha54dae1_1
++conda-forge/osx-64::numpy-2.3.2-py313hdb1a8e5_0
++conda-forge/osx-64::openssl-3.5.2-h6e31bce_0
++conda-forge/osx-64::scikit-learn-1.7.1-py313hbe0a5c7_0
++conda-forge/osx-64::scipy-1.16.1-py313hada7951_0
+# update specs: ['py-xgboost']

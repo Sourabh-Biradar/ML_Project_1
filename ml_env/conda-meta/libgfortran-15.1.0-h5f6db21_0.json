@@ -1,0 +1,31 @@
+{
+  "build": "h5f6db21_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "libgfortran5 15.1.0 hfa3c126_0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libgfortran-15.1.0-h5f6db21_0",
+  "files": [],
+  "fn": "libgfortran-15.1.0-h5f6db21_0.conda",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libgfortran-15.1.0-h5f6db21_0",
+    "type": 1
+  },
+  "md5": "bca8f1344f0b6e3002a600f4379f8f2f",
+  "name": "libgfortran",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libgfortran-15.1.0-h5f6db21_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "10efd2a1e18641dfcb57bdc14aaebabe9b24020cf1a5d9d2ec8d7cd9b2352583",
+  "size": 134053,
+  "subdir": "osx-64",
+  "timestamp": 1750181840000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libgfortran-15.1.0-h5f6db21_0.conda",
+  "version": "15.1.0"
+}
